@@ -1,0 +1,3 @@
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/cmake-build-debug/CMakeFiles/EvaluadorExpresiones.dir
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/cmake-build-debug/CMakeFiles/edit_cache.dir

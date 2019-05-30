@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/comparador.cpp
+comparador.h
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/comparador.h
+
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/comparador.h
+iostream
+-
+
+C:/Users/bgera/CLionProjects/EvaluadorExpresiones/main.cpp
+iostream
+-
+utility
+-
+regex
+-
+string
+-
+
