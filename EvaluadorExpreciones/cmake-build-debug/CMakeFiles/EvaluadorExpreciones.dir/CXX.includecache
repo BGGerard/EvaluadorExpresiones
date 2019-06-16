@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Evaluar.h
+iostream
+-
+cstdlib
+-
+cmath
+-
+stack
+-
+vector
+-
+regex
+-
+auto_ptr.h
+-
+
+C:/Users/bgera/Documents/C++/EvaluadorExpreciones/src/Evaluar.cpp
+Evaluar.h
+C:/Users/bgera/Documents/C++/EvaluadorExpreciones/src/Evaluar.h
+string
+-
+

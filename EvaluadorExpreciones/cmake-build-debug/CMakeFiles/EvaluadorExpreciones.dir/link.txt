@@ -1,0 +1,3 @@
+C:\Users\bgera\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.5429.37\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\EvaluadorExpreciones.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\EvaluadorExpreciones.dir/objects.a @CMakeFiles\EvaluadorExpreciones.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\EvaluadorExpreciones.dir/objects.a -Wl,--no-whole-archive  -o EvaluadorExpreciones.exe -Wl,--out-implib,libEvaluadorExpreciones.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EvaluadorExpreciones.dir\linklibs.rsp
